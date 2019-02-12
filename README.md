@@ -1,6 +1,8 @@
 # meme-drum-kit
 Drum Kit for Meme Sound FX
 
+You can try it [here](https://rakhmatnw.github.io/meme-drum-kit/)
+
 ### Built With:
 * HTML
 * CSS
